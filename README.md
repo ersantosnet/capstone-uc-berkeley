@@ -36,9 +36,7 @@ Further studying new data on treatments could help to expand the benefits of thi
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [https://github.com/ersantosnet/capstone-uc-berkeley/blob/main/Predictive%20Drug%20Abuse.ipynb]()
 
 
 ##### Contact and Further Information
