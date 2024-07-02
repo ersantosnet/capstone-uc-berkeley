@@ -24,9 +24,16 @@ In order to answer this important question I am going to use machine learning cl
 
 
 #### Results
-This study has achieved a signigicant predictive model with accuracy of 0.85 (out of a maximum of 1) which can help medical professional to predict patiences that might be more vulnerable to abuse of drugs. This is important because before prescribing a drug medical practictioners will be able to assess if the drug is additive and if the patience is vulnerable to abuse its usage. Therefore, reducing the number of people that have their lifes and their family lives destryoed due to that abuse.
-To the question of what personal traits are more relevant to 
+This study has achieved a signigicant predictive Logistic Regression model with accuracy of 0.85 (out of a maximum of 1) which can help medical professional to predict patiences that might be more vulnerable to abuse of drugs. This is important because before prescribing a drug medical practictioners will be able to assess if the drug is additive and if the patience is vulnerable to abuse its usage. Therefore, reducing the number of people that have their lifes and their family lives destryoed due to that abuse.
+This research also found the personal traits and habits that contribute the most to be vulnerable to drug abuse. Here are the factors in order of importance:
 
+ - Abuse of legal high drugs (mephedrone, salvia, and various legal smoking mixtures)
+ - Country
+ - Nicotine usage
+ - Openness to experience
+ - Age
+
+This list presents a short but powerful list of things to consider when analyzing people that are vulnerable.
 
 #### Next steps
 The current data available for this study is not representative of the world since it is skewed in a lot of attributes such as country and ethnicity. Therefore, further study is recommended in a new set of data to confirm the below findings found by this research.
