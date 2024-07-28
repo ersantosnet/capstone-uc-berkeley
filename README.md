@@ -34,6 +34,7 @@ This research also found the personal traits and habits that contribute the most
  - Abuse of legal high drugs (mephedrone, salvia, and various legal smoking mixtures)
  - Country
  - Nicotine usage
+ - Impulsiveness
  - Openness to experience
  - Age
 
